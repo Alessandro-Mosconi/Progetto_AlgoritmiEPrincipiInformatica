@@ -16,7 +16,7 @@ Richiede di aggiungere un grafo a quelli considerati per stilare la classifica. 
 I nodi del grafo sono da considerarsi etichettati logicamente con un indice intero tra 0 e d-1; il nodo in posizione 0 è quello la cui stella uscente è descritta dalla prima riga della matrice.
 I pesi degli archi del grafo elementi sono interi nell'intervallo [0, 2<sup>32 – 1</sup>].
 
-<img src="https://github.com/Alessandro-Mosconi/Progetto_AlgoritmiEPrincipiInformatica/blob/main/resources/AggiungiGrafo.png">
+<img src="https://github.com/Alessandro-Mosconi/Progetto_AlgoritmiEPrincipiInformatica/blob/main/resources/AggiungiGrafo.png" width=75% height=75%>
 
 ## TopK
 
@@ -34,4 +34,4 @@ prima di esso (partendo da 0)
 
 ## Esempio di esecuzione
 
-<img src="https://github.com/Alessandro-Mosconi/Progetto_AlgoritmiEPrincipiInformatica/blob/main/resources/EsempioEsecuzione.png" width=75% height=75%>
+<img src="https://github.com/Alessandro-Mosconi/Progetto_AlgoritmiEPrincipiInformatica/blob/main/resources/EsempioEsecuzione.png">
